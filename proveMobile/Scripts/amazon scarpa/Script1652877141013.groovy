@@ -53,7 +53,6 @@ Mobile.tap(findTestObject('Object Repository/amazon scarpe/android.widget.Button
 
 Mobile.delay(5)
 
-
 addcart = Mobile.getText(findTestObject('Object Repository/amazon borsa/android.widget.TextView - 1'), 0)
 
 Mobile.verifyNotMatch(cart, addcart, false, FailureHandling.STOP_ON_FAILURE)

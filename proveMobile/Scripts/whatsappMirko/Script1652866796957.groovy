@@ -42,8 +42,6 @@ Mobile.getText(findTestObject('Object Repository/ciao mirko/android.widget.TextV
 
 Mobile.takeScreenshot('C:\\Users\\Romina\\AppData\\Local\\Temp\\screenshot7689534332274986709.png')
 
-Mobile.scrollToText('mirko')
-
 Mobile.scrollToText('Mirko')
 
 Mobile.tap(findTestObject('Object Repository/ciao mirko/android.widget.TextView - Mirko'), 0)
