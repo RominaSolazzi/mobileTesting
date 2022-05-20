@@ -153,6 +153,7 @@
 			<attribute name="javadoc_location" value="file:/C:/Users/Romina/Documents/Katalon_Studio_Windows_64-8.3.0/configuration/resources/apidocs/com.kms.katalon.core.testng/"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Romina/Documents/GitHub/mobileTesting/proveMobile/Drivers/katalon-mobile-util-1.14.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Romina/Documents/Katalon_Studio_Windows_64-8.3.0/configuration/org.eclipse.osgi/26/0/.cp/resources/basic-report/katalon-studio-report-plugin.jar"/>
 	<classpathentry kind="con" path="GROOVY_SUPPORT"/>
 	<classpathentry kind="output" path="bin"/>
