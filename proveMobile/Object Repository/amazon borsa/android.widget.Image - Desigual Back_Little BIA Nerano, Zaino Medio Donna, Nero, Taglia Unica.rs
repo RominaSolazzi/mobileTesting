@@ -3,7 +3,7 @@
    <description></description>
    <name>android.widget.Image - Desigual Back_Little BIA Nerano, Zaino Medio Donna, Nero, Taglia Unica</name>
    <tag></tag>
-   <elementGuidId>00000000-0000-0000-0000-000000000000</elementGuidId>
+   <elementGuidId>e6b02cd4-59d8-455b-8855-4e3c3314e613</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -11,8 +11,8 @@
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>android.widget.Image</value>
-      <webElementGuid>1ebbb62d-94bb-4e27-b2ff-2875259d581a</webElementGuid>
+      <value>android.widget.TextView</value>
+      <webElementGuid>27818f2c-ccf3-47b0-8ef2-3b9a32890e52</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -20,15 +20,15 @@
       <name>index</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>0190f402-c95a-4755-b5ea-f78e696fd70a</webElementGuid>
+      <webElementGuid>3f05f140-0070-403b-ba54-40201bccd617</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
+      <matchCondition>contains</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Annuncio sponsorizzato – Tisdaini Donna Borse a mano Moda Mestiere di ricamo semplice Borse a spalla Borse a tracolla Bors...</value>
-      <webElementGuid>ccbcf461-ff6e-48d7-8282-4344bdf95dbb</webElementGuid>
+      <value>Back_Little</value>
+      <webElementGuid>5abf1aef-14eb-4eb5-a579-8ec3a0438482</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -36,15 +36,15 @@
       <name>package</name>
       <type>Main</type>
       <value>com.amazon.mShop.android.shopping</value>
-      <webElementGuid>c9959dcd-bd17-4d5f-8958-1d27809b91d2</webElementGuid>
+      <webElementGuid>1cb9c246-a4dc-48a1-a0a7-c196340b6efe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>checkable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>2611ae1c-49df-452a-b8d1-5e63842d92c3</webElementGuid>
+      <webElementGuid>bf950319-b6bf-4463-bd95-ee23d5ffd916</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -52,7 +52,7 @@
       <name>checked</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>57820fdb-7945-4e78-99e6-1103c9854639</webElementGuid>
+      <webElementGuid>e321b87b-3299-49d8-bb53-c71bdfb8c109</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -60,7 +60,7 @@
       <name>clickable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>1fe68229-8a65-4b84-acdc-811c321396ee</webElementGuid>
+      <webElementGuid>9cb9ea7d-2dee-4a8a-8217-2eb6211d56d1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -68,7 +68,7 @@
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>abbce090-950b-4565-bce1-fed8e38339c2</webElementGuid>
+      <webElementGuid>3098fa87-9edb-4177-af51-ffbee82bbed7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -76,7 +76,7 @@
       <name>focusable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>12e9de01-68f5-44c6-9cdd-fc99a9e6e627</webElementGuid>
+      <webElementGuid>47c82e32-b3fe-4941-be2f-040355244a9b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -84,7 +84,7 @@
       <name>focused</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>560d803d-0b93-44bd-8418-e8ab2700b3ac</webElementGuid>
+      <webElementGuid>6c21e8f0-63a5-4491-a35d-8aed28e8af27</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -92,7 +92,7 @@
       <name>scrollable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>3a8e430a-a36f-4848-8ae7-e475c8d0bc20</webElementGuid>
+      <webElementGuid>ac53f70b-9760-4a95-b65e-b6f684b7818e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -100,7 +100,7 @@
       <name>long-clickable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>f3989298-4d3a-405f-a50b-9d62499a5076</webElementGuid>
+      <webElementGuid>a0e98951-9bae-43f7-8325-0a73c15baa6b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -108,7 +108,7 @@
       <name>password</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>bc77a8af-0368-478d-8e66-b4ff08724178</webElementGuid>
+      <webElementGuid>91de0510-6ee6-441a-927b-e875c9da1ce2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -116,7 +116,7 @@
       <name>selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>af107631-5a89-48c7-9e03-7e005c1f3d55</webElementGuid>
+      <webElementGuid>180ce99b-595f-4239-ae83-c3fc42d5ad73</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -124,7 +124,7 @@
       <name>x</name>
       <type>Main</type>
       <value>574</value>
-      <webElementGuid>d8439bce-09f7-4489-b033-9783bd25df12</webElementGuid>
+      <webElementGuid>56510151-6c86-4429-879d-7e9f8ac28279</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -132,7 +132,7 @@
       <name>y</name>
       <type>Main</type>
       <value>528</value>
-      <webElementGuid>88717d19-d4b8-44e5-b03e-67648300d848</webElementGuid>
+      <webElementGuid>96995543-4a98-4611-a23d-1a99e682c3e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -140,7 +140,7 @@
       <name>width</name>
       <type>Main</type>
       <value>462</value>
-      <webElementGuid>20703c18-fb39-4b0c-a373-2281486e67fc</webElementGuid>
+      <webElementGuid>4bfbc61a-d7f5-42fa-b5e2-a28ae72481bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -148,7 +148,7 @@
       <name>height</name>
       <type>Main</type>
       <value>693</value>
-      <webElementGuid>46b64b7a-7e0b-4dbf-9b58-530e7c08c9b6</webElementGuid>
+      <webElementGuid>c662ae74-9c91-4b94-bb90-014b810166ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -156,7 +156,7 @@
       <name>bounds</name>
       <type>Main</type>
       <value>[574,528][1036,1221]</value>
-      <webElementGuid>fc648ec6-6d0d-44dd-abc7-5bc790194da1</webElementGuid>
+      <webElementGuid>f96568b7-da2b-4089-9f62-0b439f1abcbc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -164,7 +164,7 @@
       <name>displayed</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>1f0e2675-0999-40fe-b1b1-9e0ce474a172</webElementGuid>
+      <webElementGuid>dd3dba2a-2de8-4839-b87a-85c4ee7484e6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -172,8 +172,8 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.FrameLayout[2]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/android.widget.RelativeLayout[1]/android.webkit.WebView[1]/android.webkit.WebView[1]/android.view.View[1]/android.view.View[1]/android.view.View[5]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.widget.Image[1]</value>
-      <webElementGuid>4e9dffd9-ab01-43b8-8717-e11755a29b0d</webElementGuid>
+      <webElementGuid>0ee58994-7181-4a22-a1d6-574463c16a88</webElementGuid>
    </webElementProperties>
-   <locator>//*[@class = 'android.widget.Image' and (@text = 'Annuncio sponsorizzato – Tisdaini Donna Borse a mano Moda Mestiere di ricamo semplice Borse a spalla Borse a tracolla Bors...' or . = 'Annuncio sponsorizzato – Tisdaini Donna Borse a mano Moda Mestiere di ricamo semplice Borse a spalla Borse a tracolla Bors...')]</locator>
+   <locator>//*[@class = 'android.widget.TextView' and (contains(@text, 'Back_Little') or contains(., 'Back_Little')) and @checkable = 'false']</locator>
    <locatorStrategy>ATTRIBUTES</locatorStrategy>
 </MobileElementEntity>

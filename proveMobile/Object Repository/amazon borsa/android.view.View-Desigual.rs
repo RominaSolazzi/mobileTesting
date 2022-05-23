@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MobileElementEntity>
    <description></description>
-   <name>android.view.View</name>
+   <name>android.view.View-Desigual</name>
    <tag></tag>
-   <elementGuidId>06ae192a-3dd1-4e5f-807c-9b5bb87ea868</elementGuidId>
+   <elementGuidId>00000000-0000-0000-0000-000000000000</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -12,151 +12,159 @@
       <name>class</name>
       <type>Main</type>
       <value>android.view.View</value>
-      <webElementGuid>af5a2321-2364-44de-b59a-cf7525aaa461</webElementGuid>
+      <webElementGuid>cc11df2d-4ca4-4e6e-9b8a-1b4ae7976508</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>index</name>
       <type>Main</type>
-      <value>5</value>
-      <webElementGuid>adc0ffe5-1dc2-4ba4-a95b-d0cec8519e7d</webElementGuid>
+      <value>0</value>
+      <webElementGuid>401369a6-06c5-463b-b1dd-5c82b36bc60f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>package</name>
       <type>Main</type>
       <value>com.amazon.mShop.android.shopping</value>
-      <webElementGuid>248f057f-08da-47e1-bd25-0826b904ec5d</webElementGuid>
+      <webElementGuid>a3c2a517-9f35-40f4-9fe1-c6eb76b5debf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>content-desc</name>
+      <type>Main</type>
+      <value>Desigual Back_Little BIA Nerano, Zaino Medio Donna, Nero, Taglia Unica</value>
+      <webElementGuid>5cf50524-af55-4a62-ac96-2dedd405fb07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>checkable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>431d271a-469c-48a3-b97c-82526c099f93</webElementGuid>
+      <webElementGuid>651e1253-1b98-4b27-8211-c27f99cb6b4d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>checked</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>704aae89-ea1a-441c-9704-a75d57fb45d9</webElementGuid>
+      <webElementGuid>2105d9b6-7b46-4cdf-9b9c-36370701f619</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>clickable</name>
       <type>Main</type>
-      <value>false</value>
-      <webElementGuid>0ba84f64-5d42-46f0-9cc3-0d3608be147b</webElementGuid>
+      <value>true</value>
+      <webElementGuid>5abf7067-ae36-4401-b198-a927897c8a1b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>5ee5109e-6fcd-4bad-a02a-24f21236e6a5</webElementGuid>
+      <webElementGuid>ec1505ba-472f-4058-80e6-96c65607cdb8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>focusable</name>
       <type>Main</type>
-      <value>false</value>
-      <webElementGuid>c19fda43-ae6c-4034-aaa3-34ba85162919</webElementGuid>
+      <value>true</value>
+      <webElementGuid>312b5761-8cd1-4b4f-8548-9bfabfbea4b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>focused</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>6e6c89e8-05d3-463d-9c3b-0cf50a0b9825</webElementGuid>
+      <webElementGuid>31e659ac-b27b-419f-86ae-ffea6ee5e3eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>scrollable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>7a84f131-9630-4f2f-b5a8-bcbc38530604</webElementGuid>
+      <webElementGuid>1fced278-7c3f-4dcf-8744-576a67e14b8b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>long-clickable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>1cbd4bc6-f0b6-4af3-b4b5-83ea1daa31ce</webElementGuid>
+      <webElementGuid>a65a0460-dd28-4004-9e9c-8ee5f4738ace</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>password</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>622515f6-d5d1-4811-a042-40f3bb532385</webElementGuid>
+      <webElementGuid>b9304ff8-11ec-4153-a952-61501675cce2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>39454f8b-e188-4ff2-a064-5f032e5e8191</webElementGuid>
+      <webElementGuid>05e9551a-7a98-40c8-a959-0b2ee3492160</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>x</name>
       <type>Main</type>
-      <value>550</value>
-      <webElementGuid>1bf47c95-c4b1-4a5c-91ec-d2811b3c6801</webElementGuid>
+      <value>552</value>
+      <webElementGuid>1bff18a6-1c08-4fec-b597-e06855f79d68</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>y</name>
       <type>Main</type>
-      <value>811</value>
-      <webElementGuid>c659b929-f76a-4d8c-991f-2e376c67f271</webElementGuid>
+      <value>539</value>
+      <webElementGuid>536e5c15-26e1-422f-8867-611ccfc5b761</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>width</name>
       <type>Main</type>
-      <value>511</value>
-      <webElementGuid>a0472c12-9159-4e87-80f3-27785eeb503e</webElementGuid>
+      <value>506</value>
+      <webElementGuid>b89dad55-88b8-41f1-8bb6-35e658e4549c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>height</name>
       <type>Main</type>
-      <value>1147</value>
-      <webElementGuid>86d35c91-8436-4090-9958-9cb3d9d3c81b</webElementGuid>
+      <value>690</value>
+      <webElementGuid>bdbaaea5-ed54-46c3-8bb0-4d3373fe0d89</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>bounds</name>
       <type>Main</type>
-      <value>[550,811][1061,1958]</value>
-      <webElementGuid>8bc4575b-06bc-47e6-97a8-de265f5ccabb</webElementGuid>
+      <value>[552,539][1058,1229]</value>
+      <webElementGuid>aae1c295-a9c3-48d5-9ea8-5ac11ffdbc2c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>displayed</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>2eed4ddf-db0a-4462-8769-bb85af71398f</webElementGuid>
+      <webElementGuid>500ce3f9-1673-4028-b97c-363de256d6db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -164,16 +172,16 @@
       <name>text</name>
       <type>Main</type>
       <value></value>
-      <webElementGuid>369a4339-db1b-4ad5-960a-5594729cce6b</webElementGuid>
+      <webElementGuid>5fa858db-1ba5-4b08-b4f0-f7e83c4e053a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.FrameLayout[2]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/android.widget.RelativeLayout[1]/android.webkit.WebView[1]/android.webkit.WebView[1]/android.view.View[1]/android.view.View[1]/android.view.View[5]</value>
-      <webElementGuid>645b9796-9efd-4981-afd2-548b50ee83f2</webElementGuid>
+      <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.FrameLayout[2]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/android.widget.RelativeLayout[1]/android.webkit.WebView[1]/android.webkit.WebView[1]/android.view.View[1]/android.view.View[1]/android.view.View[5]/android.view.View[1]</value>
+      <webElementGuid>a21462f3-5461-4618-9f43-88bef4b40659</webElementGuid>
    </webElementProperties>
-   <locator>//*[@class = 'android.view.View' and (@text = '' or . = '')]</locator>
-   <locatorStrategy>XPATH</locatorStrategy>
+   <locator>Desigual Back_Little BIA Nerano, Zaino Medio Donna, Nero, Taglia Unica</locator>
+   <locatorStrategy>ACCESSIBILITY</locatorStrategy>
 </MobileElementEntity>

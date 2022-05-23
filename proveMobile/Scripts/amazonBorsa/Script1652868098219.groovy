@@ -17,6 +17,8 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 import com.kms.katalon.core.mobile.keyword.internal.MobileDriverFactory
+import com.detroitlabs.katalonmobileutil.touch.Scroll
+import com.detroitlabs.katalonmobileutil.touch.Scroll.ScrollFactor
 
 Mobile.startExistingApplication('com.amazon.mShop.android.shopping')
 
@@ -31,18 +33,20 @@ Mobile.tap(findTestObject('Object Repository/amazon borsa/android.widget.TextVie
 
 Mobile.setText(findTestObject('Object Repository/amazon borsa/android.widget.EditText - Cerca su Amazon.it'), 'borsa', 0)
 
+Mobile.delay(3)
+
+Mobile.scrollToText('borsa donna')
+ 
 Mobile.tap(findTestObject('Object Repository/amazon borsa/android.widget.TextView - borsa donna'), 0)
 
 Mobile.getText(findTestObject('Object Repository/amazon borsa/android.widget.TextView - RISULTATI Il prezzo e altri dettagli possono variare in base alle dimensioni e al colore del prodotto'), 
     0)
 
-Mobile.delay(5)
-
 Mobile.scrollToText('Desigual')
 
 Mobile.delay(5)
 
-Mobile.tap(findTestObject('Object Repository/amazon borsa/android.view.View'),
+Mobile.tap(findTestObject('Object Repository/amazon borsa/android.view.View-Desigual'),
 	0)
 
 Mobile.scrollToText('Aggiungi al carrello')
@@ -61,7 +65,7 @@ Mobile.delay(3)
 
 Mobile.scrollToText('borsa donna')
 
-Mobile.tap(findTestObject('Object Repository/amazon borsa/android.widget.TextView - borsa donna'), 0)
+Mobile.tap(findTestObject('Object Repository/amazon borsa/android.widget.TextView - borsa donna-barra ricerca'), 0)
 
 Mobile.setText(findTestObject('Object Repository/amazon borsa/android.widget.EditText - borsa donna'), '', 0)
 

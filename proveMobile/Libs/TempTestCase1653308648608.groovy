@@ -18,9 +18,9 @@ DriverCleanerCollector.getInstance().addDriverCleaner(new com.kms.katalon.core.w
 DriverCleanerCollector.getInstance().addDriverCleaner(new com.kms.katalon.core.testng.keyword.internal.TestNGDriverCleaner())
 
 
-RunConfiguration.setExecutionSettingFile('C:\\Users\\Romina\\AppData\\Local\\Temp\\Katalon\\Test Cases\\Ricerca-La feltrinelli\\20220520_172745\\execution.properties')
+RunConfiguration.setExecutionSettingFile('C:\\Users\\Romina\\AppData\\Local\\Temp\\Katalon\\Test Cases\\amazonBorsa\\20220523_142408\\execution.properties')
 
 TestCaseMain.beforeStart()
 
-        TestCaseMain.runTestCase('Test Cases/Ricerca-La feltrinelli', new TestCaseBinding('Test Cases/Ricerca-La feltrinelli',[:]), FailureHandling.STOP_ON_FAILURE , false)
+        TestCaseMain.runTestCase('Test Cases/amazonBorsa', new TestCaseBinding('Test Cases/amazonBorsa',[:]), FailureHandling.STOP_ON_FAILURE , false)
     

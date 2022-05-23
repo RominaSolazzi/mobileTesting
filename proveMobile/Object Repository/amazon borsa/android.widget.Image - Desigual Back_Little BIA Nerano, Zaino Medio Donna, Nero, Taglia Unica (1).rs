@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MobileElementEntity>
    <description></description>
-   <name>android.widget.TextView - borsa donna</name>
+   <name>android.widget.Image - Desigual Back_Little BIA Nerano, Zaino Medio Donna, Nero, Taglia Unica (1)</name>
    <tag></tag>
-   <elementGuidId>0e656387-372a-4c1b-b472-f9a8417ccee1</elementGuidId>
+   <elementGuidId>00000000-0000-0000-0000-000000000000</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>android.widget.TextView</value>
-      <webElementGuid>763c9fee-a5b5-4d98-8e33-741d3cf9a64c</webElementGuid>
+      <value>android.widget.Image</value>
+      <webElementGuid>73042c36-a5ad-4278-a8d9-9b2d8df65a79</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -20,39 +20,31 @@
       <name>index</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>7d557177-945f-4f6a-92ab-ffd410aa0fdd</webElementGuid>
+      <webElementGuid>41e07dca-b5f1-403a-af31-9b29fe4ea0dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>borsa donna</value>
-      <webElementGuid>2d15565d-1a5f-4369-ae01-707d2a188bc2</webElementGuid>
+      <value>Desigual Back_Little BIA Nerano, Zaino Medio Donna, Nero, Taglia Unica</value>
+      <webElementGuid>6953f896-bc5e-41e1-9e37-df57ecc12ad6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>resource-id</name>
-      <type>Main</type>
-      <value>com.amazon.mShop.android.shopping:id/iss_search_dropdown_item_text</value>
-      <webElementGuid>9f4d8a3e-ee84-49b3-9451-17e7a4514bf8</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>package</name>
       <type>Main</type>
       <value>com.amazon.mShop.android.shopping</value>
-      <webElementGuid>2de9cf60-df8b-4c57-a5f9-4b3d17f5f0dd</webElementGuid>
+      <webElementGuid>b5ca0872-ebae-481e-9c0a-c427c350b5d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>checkable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>ce1343c3-7d33-492f-b0b4-4623ac094194</webElementGuid>
+      <webElementGuid>0227f85f-38cd-4481-b83c-91fd93b0d084</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -60,7 +52,7 @@
       <name>checked</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>a2681cbc-18b4-4e7a-b154-76458e8b5774</webElementGuid>
+      <webElementGuid>1c3fabcc-da76-475f-8e5b-4dca7cdf8066</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -68,7 +60,7 @@
       <name>clickable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>4f38e79d-d946-4114-9d1d-243a7f3755e3</webElementGuid>
+      <webElementGuid>883bc465-4e54-463b-8f0f-1309de190f7e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -76,7 +68,7 @@
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>92fe584c-3f65-4675-8fce-80997adfd4b8</webElementGuid>
+      <webElementGuid>03805699-7391-4ba8-995f-244e4375ceae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -84,7 +76,7 @@
       <name>focusable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>bafff32e-ae66-41bc-8c60-8771dc668a76</webElementGuid>
+      <webElementGuid>29136981-4b4c-42b8-ab62-19fa9df9d0e9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -92,7 +84,7 @@
       <name>focused</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>4699fbf8-e5dd-4f42-b2a7-596ee0eb3646</webElementGuid>
+      <webElementGuid>812000e2-a2e0-4007-b05f-ee66dbe9b230</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -100,7 +92,7 @@
       <name>scrollable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>f68de857-cbe6-438f-8dbe-c91ea8f0450a</webElementGuid>
+      <webElementGuid>73cfc3c7-1dfa-4285-907c-e46b2a25ddee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -108,7 +100,7 @@
       <name>long-clickable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>493b4a0e-adb1-43f3-826d-9857a973b3d2</webElementGuid>
+      <webElementGuid>7f83f609-3c0a-4af9-b066-642f60931bc2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -116,7 +108,7 @@
       <name>password</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>4eef3606-f6a2-4e7e-8fb4-681a463f3702</webElementGuid>
+      <webElementGuid>6dd7e2b7-9dc2-4051-84eb-75fa1776a1fd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -124,47 +116,47 @@
       <name>selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>09d43dba-fc2c-454a-821e-dd53bd0d3922</webElementGuid>
+      <webElementGuid>a8e8e307-9bb7-4917-bf52-990d8200c832</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>x</name>
       <type>Main</type>
-      <value>16</value>
-      <webElementGuid>a8697640-7e85-4b31-9717-7c5992c45c51</webElementGuid>
+      <value>574</value>
+      <webElementGuid>7bcbe4f4-3fb5-4d60-84bd-251449e02fa4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>y</name>
       <type>Main</type>
-      <value>251</value>
-      <webElementGuid>9bc8e010-0fc5-4daa-8177-6d168d302d1f</webElementGuid>
+      <value>341</value>
+      <webElementGuid>8d8f2ca2-fbf7-49ee-82af-2339ccb43056</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>width</name>
       <type>Main</type>
-      <value>350</value>
-      <webElementGuid>1f36525d-fa3a-4337-a643-dc1259770e1d</webElementGuid>
+      <value>462</value>
+      <webElementGuid>f8069988-b0c3-4942-a706-ae83423cb2d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>height</name>
       <type>Main</type>
-      <value>74</value>
-      <webElementGuid>b851d43b-7eb4-4531-8ea4-6f19ebf71bb8</webElementGuid>
+      <value>690</value>
+      <webElementGuid>56127c4e-8826-47ae-b5ad-f2525696cd0f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>bounds</name>
       <type>Main</type>
-      <value>[16,251][366,325]</value>
-      <webElementGuid>0618e833-d10b-4d5e-a60f-9adf00645464</webElementGuid>
+      <value>[574,341][1036,1031]</value>
+      <webElementGuid>5139b81e-a9be-4ac3-b685-2e0b26e57996</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -172,16 +164,16 @@
       <name>displayed</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>4354cb6d-9753-43e0-97ef-67d772233fbe</webElementGuid>
+      <webElementGuid>78a19a44-cb6b-4faf-b773-0418e02487ca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.FrameLayout[2]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.ListView[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.TextView[1]</value>
-      <webElementGuid>bca6d7a8-90d2-4f9e-9547-507d6cc7e1c8</webElementGuid>
+      <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.FrameLayout[2]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/android.widget.RelativeLayout[1]/android.webkit.WebView[1]/android.webkit.WebView[1]/android.view.View[1]/android.view.View[1]/android.view.View[5]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.widget.Image[1]</value>
+      <webElementGuid>04f2559d-c807-497b-80b5-da7718776db8</webElementGuid>
    </webElementProperties>
-   <locator>//*[(@text = 'borsa donna' or . = 'borsa donna') and @resource-id = 'com.amazon.mShop.android.shopping:id/iss_search_dropdown_item_text' and @package = 'com.amazon.mShop.android.shopping' and @checkable = 'false']</locator>
+   <locator>//*[@class = 'android.widget.Image' and (@text = 'Desigual Back_Little BIA Nerano, Zaino Medio Donna, Nero, Taglia Unica' or . = 'Desigual Back_Little BIA Nerano, Zaino Medio Donna, Nero, Taglia Unica')]</locator>
    <locatorStrategy>ATTRIBUTES</locatorStrategy>
 </MobileElementEntity>

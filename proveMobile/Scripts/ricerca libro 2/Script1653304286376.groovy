@@ -7,7 +7,6 @@ import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
 import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
 import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
 import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
-import com.kms.katalon.core.mobile.keyword.internal.MobileDriverFactory
 import com.kms.katalon.core.model.FailureHandling as FailureHandling
 import com.kms.katalon.core.testcase.TestCase as TestCase
 import com.kms.katalon.core.testdata.TestData as TestData
@@ -21,10 +20,9 @@ import org.openqa.selenium.Keys as Keys
 
 import com.detroitlabs.katalonmobileutil.touch.Scroll
 import com.detroitlabs.katalonmobileutil.touch.Scroll.ScrollFactor
+import com.detroitlabs.katalonmobileutil.touch.Swipe
 
 Mobile.startExistingApplication('it.feltrinelli')
-
-driver = MobileDriverFactory.getDriver()
 
 Mobile.tap(findTestObject('Object Repository/la feltrinelli-Ricerca/android.widget.Button - Cerca'), 0)
 
@@ -36,37 +34,32 @@ Mobile.tap(findTestObject('Object Repository/la feltrinelli-Ricerca/android.widg
 device_Height = Mobile.getDeviceHeight()
 
 
+
 'Get Width Height and Store in device_Width variable'
 
 device_Width = Mobile.getDeviceWidth()
 
 
 String id = "it.feltrinelli:id/titleText"
-
 String text = "Pictionary Air Harry Potter gioco di disegni per famiglie; dagli 8 anni in su"
 
-int timeout = 1
+int timeout = 0
 
-Scroll.initialize(ScrollFactor.XLARGE)
+search()
 
-Scroll.scrollListToElementWithText( id, text,ScrollFactor.XLARGE, timeout)
-
-
-//search()
-//	CustomKeywords.'swiping.scrollListToElementWithText'("Pictionary Air Harry Potter gioco di disegni per famiglie; dagli 8 anni in su")
-
-/*'Swipe Vertical from bottom to top'
-
-Mobile.swipe(startX, startY, endX, endY)*/
-
-driver.resetApp()
+Mobile.closeApplication()
 
 def search() {
 	try {
-		Mobile.scrollToText('Pictionary Air Harry Potter gioco di disegni per famiglie; dagli 8 anni in su', FailureHandling.STOP_ON_FAILURE)
+		//Mobile.scrollToText('Pictionary Air Harry Potter gioco di disegni per famiglie; dagli 8 anni in su', FailureHandling.STOP_ON_FAILURE)
+		Mobile.verifyElementVisible(findTestObject('Object Repository/la feltrinelli-Ricerca/android.widget.TextView - harry potter - Copy'), 2)
+		//
 	} catch(e) {
+		Swipe.swipe(Swipe.SwipeDirection.BOTTOM_TO_TOP);
 		
-		'Storing the startX value by dividing device width by 2. Because x coordinates are constant for Vertical Swiping'
+		search()
+		
+		/*'Storing the startX value by dividing device width by 2. Because x coordinates are constant for Vertical Swiping'
 		
 		int startX = device_Width / 2
 		
@@ -93,6 +86,6 @@ def search() {
 		'Swipe Vertical from top to bottom'
 		
 		Mobile.swipe(startX, endY, endX, startY)
-		search()
+		search()*/
 	}
 }

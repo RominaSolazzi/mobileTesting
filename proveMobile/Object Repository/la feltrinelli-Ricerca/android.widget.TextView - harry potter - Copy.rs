@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MobileElementEntity>
    <description></description>
-   <name>android.widget.TextView - borsa donna</name>
+   <name>android.widget.TextView - harry potter - Copy</name>
    <tag></tag>
-   <elementGuidId>0e656387-372a-4c1b-b472-f9a8417ccee1</elementGuidId>
+   <elementGuidId>575f8146-4b0d-41ee-94e9-ca035d7964fd</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
       <value>android.widget.TextView</value>
-      <webElementGuid>763c9fee-a5b5-4d98-8e33-741d3cf9a64c</webElementGuid>
+      <webElementGuid>62d9182f-7e26-48d1-93f3-f52e60b439dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -20,39 +20,39 @@
       <name>index</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>7d557177-945f-4f6a-92ab-ffd410aa0fdd</webElementGuid>
+      <webElementGuid>44860792-6ace-47ce-82e9-07c3303adeec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
+      <matchCondition>contains</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>borsa donna</value>
-      <webElementGuid>2d15565d-1a5f-4369-ae01-707d2a188bc2</webElementGuid>
+      <value>Pictionary Air Harry Potter gioco di disegni per famiglie</value>
+      <webElementGuid>16955cee-bd1e-464e-a1a3-707f5f27cf79</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>resource-id</name>
       <type>Main</type>
-      <value>com.amazon.mShop.android.shopping:id/iss_search_dropdown_item_text</value>
-      <webElementGuid>9f4d8a3e-ee84-49b3-9451-17e7a4514bf8</webElementGuid>
+      <value>it.feltrinelli:id/titleText</value>
+      <webElementGuid>8cf85b73-4ba6-475b-9345-c283f5c7af5f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>package</name>
       <type>Main</type>
-      <value>com.amazon.mShop.android.shopping</value>
-      <webElementGuid>2de9cf60-df8b-4c57-a5f9-4b3d17f5f0dd</webElementGuid>
+      <value>it.feltrinelli</value>
+      <webElementGuid>e7810dd3-9543-4f4e-8903-a10edb2a941e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>checkable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>ce1343c3-7d33-492f-b0b4-4623ac094194</webElementGuid>
+      <webElementGuid>2eac24b0-5dee-4d30-962d-3b051f8bb983</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -60,7 +60,7 @@
       <name>checked</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>a2681cbc-18b4-4e7a-b154-76458e8b5774</webElementGuid>
+      <webElementGuid>2b1cf540-aa1b-4e7f-a762-1e095ac756ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -68,7 +68,7 @@
       <name>clickable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>4f38e79d-d946-4114-9d1d-243a7f3755e3</webElementGuid>
+      <webElementGuid>0ddf26bb-7da1-4f35-abde-77b90bfa43fb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -76,7 +76,7 @@
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>92fe584c-3f65-4675-8fce-80997adfd4b8</webElementGuid>
+      <webElementGuid>35e8f812-63c6-4f5e-95e4-dd7521e4f036</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -84,7 +84,7 @@
       <name>focusable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>bafff32e-ae66-41bc-8c60-8771dc668a76</webElementGuid>
+      <webElementGuid>11fb9f75-7895-4563-b282-6d655a1d1b9b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -92,7 +92,7 @@
       <name>focused</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>4699fbf8-e5dd-4f42-b2a7-596ee0eb3646</webElementGuid>
+      <webElementGuid>01fc4463-2944-48cf-b384-5b20d045d767</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -100,7 +100,7 @@
       <name>scrollable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>f68de857-cbe6-438f-8dbe-c91ea8f0450a</webElementGuid>
+      <webElementGuid>1b4a7966-d31d-469b-94a1-ef31d15be89c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -108,7 +108,7 @@
       <name>long-clickable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>493b4a0e-adb1-43f3-826d-9857a973b3d2</webElementGuid>
+      <webElementGuid>68c3a48e-39f9-4b2f-9e16-b9c01089029e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -116,7 +116,7 @@
       <name>password</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>4eef3606-f6a2-4e7e-8fb4-681a463f3702</webElementGuid>
+      <webElementGuid>0b694aeb-1b82-418f-b5fc-7a1e4f725023</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -124,47 +124,47 @@
       <name>selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>09d43dba-fc2c-454a-821e-dd53bd0d3922</webElementGuid>
+      <webElementGuid>67451787-6c1d-4b5e-8ea8-37d15351fe56</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>x</name>
       <type>Main</type>
-      <value>16</value>
-      <webElementGuid>a8697640-7e85-4b31-9717-7c5992c45c51</webElementGuid>
+      <value>55</value>
+      <webElementGuid>c8cb42bc-a016-495f-8555-6ab59e8f0837</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>y</name>
       <type>Main</type>
-      <value>251</value>
-      <webElementGuid>9bc8e010-0fc5-4daa-8177-6d168d302d1f</webElementGuid>
+      <value>694</value>
+      <webElementGuid>25c24756-468a-4cf9-858c-f833c0617a3e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>width</name>
       <type>Main</type>
-      <value>350</value>
-      <webElementGuid>1f36525d-fa3a-4337-a643-dc1259770e1d</webElementGuid>
+      <value>239</value>
+      <webElementGuid>c4a68d70-b3e4-4045-a3ff-6b9968937ac7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>height</name>
       <type>Main</type>
-      <value>74</value>
-      <webElementGuid>b851d43b-7eb4-4531-8ea4-6f19ebf71bb8</webElementGuid>
+      <value>162</value>
+      <webElementGuid>4fd40a8d-ab18-446c-8287-5122a20e51d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>bounds</name>
       <type>Main</type>
-      <value>[16,251][366,325]</value>
-      <webElementGuid>0618e833-d10b-4d5e-a60f-9adf00645464</webElementGuid>
+      <value>[55,694][294,856]</value>
+      <webElementGuid>849976ee-d66a-4dd4-b411-5dd079b84a62</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -172,16 +172,16 @@
       <name>displayed</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>4354cb6d-9753-43e0-97ef-67d772233fbe</webElementGuid>
+      <webElementGuid>080f9442-e94a-4ded-9b98-a65da5a4a21e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.FrameLayout[2]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.ListView[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.TextView[1]</value>
-      <webElementGuid>bca6d7a8-90d2-4f9e-9547-507d6cc7e1c8</webElementGuid>
+      <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[1]/android.widget.LinearLayout[3]/android.widget.TextView[1]</value>
+      <webElementGuid>f78858a8-9317-4a1d-833f-9722a565fb33</webElementGuid>
    </webElementProperties>
-   <locator>//*[(@text = 'borsa donna' or . = 'borsa donna') and @resource-id = 'com.amazon.mShop.android.shopping:id/iss_search_dropdown_item_text' and @package = 'com.amazon.mShop.android.shopping' and @checkable = 'false']</locator>
+   <locator>//*[@class = 'android.widget.TextView' and (contains(@text, 'Pictionary Air Harry Potter gioco di disegni per famiglie') or contains(., 'Pictionary Air Harry Potter gioco di disegni per famiglie')) and @resource-id = 'it.feltrinelli:id/titleText']</locator>
    <locatorStrategy>ATTRIBUTES</locatorStrategy>
 </MobileElementEntity>
