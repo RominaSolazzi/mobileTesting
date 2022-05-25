@@ -47,6 +47,8 @@ int timeout = 0
 
 search()
 
+Mobile.tap(findTestObject('Object Repository/la feltrinelli-Ricerca/android.widget.TextView - harry potter - Copy'), 2)
+
 Mobile.closeApplication()
 
 def search() {
